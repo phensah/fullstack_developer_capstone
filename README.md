@@ -1,1 +1,1 @@
-# coding-project-template
+# Static page completed
